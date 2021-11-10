@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(146, 189, 170);
+}
+.container{
+    color:rgb(16, 17, 17);
+    margin: 0 auto;
+    border: 5px solid steelblue ;
+}
+h1{
+    text-align: center;
+}
+.imagen{
+    height: 100px;
+    width: 100px;
+    line-height: 100px;
+    background-color: rgb(134, 59, 59);
+    color: white;
+    text-align: center;
+    display: block;
+    margin: auto;
+}
+.image
+{
+    height: auto;
+    display: block;
+    margin: auto;
+}
+.image
+{   
+    display: block;
+    margin: auto;
+}
